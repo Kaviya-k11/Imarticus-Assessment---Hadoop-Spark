@@ -1,3 +1,6 @@
+Boston Dataset Analysis : Reading CSV file in Hive
+
+
 Reading file :  /*gs://Desktop/Imarticus/Big Data Hadoop _ Spark Exam/Dataset/boston.csv*/
 
 Creating Table :
